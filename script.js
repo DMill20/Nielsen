@@ -4,6 +4,7 @@ const cashRegister = (price, cash) => {
     "NICKEL": .05,
     "DIME": .10,
     "QUARTER": .25,
+    "HALFDOLLAR": .50,
     "ONE": 1.00,
     "FIVE": 5.00,
     "TEN": 10.00,
